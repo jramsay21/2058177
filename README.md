@@ -7,11 +7,11 @@
    A program that queries and updates population figures for a list of major European cities.
 
 ## Features
-   * City Map
+   * City Map:
       A map of all the cities with current pop. figures. It's displayed on a warped map of Europe that is 80 characters wide and 50 lines long.
-   * User Interface
+   * User Interface:
       A text-based UI that contains a list of core functions.
-   * Cities List
+   * Cities List:
       A txt file that contains the list of cities - do not write from this as its formatted precisely.  
 
 ## Design & Implementation Rationale
@@ -26,11 +26,11 @@
    ```bash
    cd 
    ```
-4. Run the program:
+3. Run the program:
    ```bash
    ghci cities.hs
    ```
-5. Start the program with:
+4. Start the program with:
    ```bash
    main
    ```
